@@ -24,7 +24,7 @@ public class Ptm05 {
     Alamat alamatku = new Alamat();
     alamatku.kota = "Banjarbaru";
     alamatku.kecamatan = "Landasan Ulin";
-    alamatku.desa = "G. Manggis";
+    alamatku.desa = "Guntung Manggis";
     alamatku.no = 11;
     
     alamat.info();
